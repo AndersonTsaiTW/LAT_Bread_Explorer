@@ -1,5 +1,6 @@
 # LAT_Bread_Explorer
-A Line chatbot can help Mandarin users to learn English in daily life.
+A Line chatbot can help Mandarin users to learn English in daily life.  
+[English Version PPT(include demonstration video)](https://1drv.ms/p/s!Aq0-xPRUaugCoB7fOCo0nlzNlvs4?e=aVvh8D)
 
 ###### 期末專題(end-of-semester project) 
 * 專案影片 / project video[(連結 / Link)](https://www.youtube.com/watch?v=8w7uTnBEiGQ&ab_channel=AndersonTsai)
