@@ -24,7 +24,6 @@ A Line chatbot can help Mandarin users to learn English in daily life.
 <img width="1280" alt="Screenshot 2023-06-06 at 7 26 41 PM" src="https://github.com/AndersonTsaiTW/LAT_Repo/assets/113076298/7fb60aef-4370-4ff6-88cc-632c082668d5">  
   
 ### [ QR code ]：如果你想實際測試，請聯絡製作團隊 / If you want to actually test it, please contact the production team  
-![BreadExplorerQRcode](https://github.com/AndersonTsaiTW/LAT_Repo/assets/113076298/7355e154-e0fc-40c3-a6b6-1cc938665c14)
 
 ### 如果你想自己玩玩看 / if you want to play for yourself
 0. 如果AZURE模型已失效，則無法測試 / Cannot test if the AZURE model is dead 
